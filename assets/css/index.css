@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+ }
+ 
+ body{
+    background-color: beige;
+    
+ }
+ h1{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ h2{
+    color: chocolate;
+ }
+ p{
+    color:rgb(42, 160, 160)
+ }
